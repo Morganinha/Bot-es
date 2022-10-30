@@ -1,20 +1,14 @@
-.container {
+.fundoazul{
     display: flex;
     align-items: center;
-    background-color: #008000;
-    height: 200px;
-    width: 100%;
-    
+    background-color: aqua;
+    width: 1300px;
+    height: 40%;
 }
-button{
-    border-radius: 200px;
-    width:100px;
-    height:50px;
-}
-
-
-.BRANCO {
-    background-color: #FFFFFF;
-    height: 100%;
-    width: 100%;
+.fundored{
+    display: flex;
+    align-items: center;
+    background-color: #FF1616;
+    width: 550px;
+    height: 1900px;
 }
